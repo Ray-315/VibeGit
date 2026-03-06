@@ -27,6 +27,7 @@
 | [11-edge-cases.md](./11-edge-cases.md) | K. 边界情况与风险清单 | 异常场景、处理策略 |
 | [12-roadmap.md](./12-roadmap.md) | L. 开发路线图 | 四阶段开发计划 |
 | [13-codex-instructions.md](./13-codex-instructions.md) | M. Codex 可执行输出 | 给 AI 的工程实施指令 |
+| [14-parallel-agents.md](./14-parallel-agents.md) | N. 多 Agent 并行开发指南 | 分支策略、Agent 数量与分工、每个 Agent 的详细指令 |
 
 ---
 
